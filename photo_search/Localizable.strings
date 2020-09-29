@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  photo_search
+
+  Created by Rock Chen on 2020/9/24.
+  
+*/
+
+"search_input_page" = "搜尋輸入頁";
+"search_content_placehold" = "欲搜尋內容";
+"per_page_placehold" = "每頁呈現數量";
+"search" = "搜尋";
+"confirm" = "確認";
+"message" = "訊息";
+"error_message" = "發生錯誤訊息";
+"search_result" = "搜尋結果 %@";
+"my_favourite" = "我的最愛";
